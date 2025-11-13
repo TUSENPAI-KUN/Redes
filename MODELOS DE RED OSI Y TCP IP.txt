@@ -1,0 +1,33 @@
+MODELOS DE RED OSI Y TCP IP
+
+QUE SON ESTOS MODELOS
+- Modelos de referencia para comunicacion en red
+- Dividen el proceso en capas o niveles
+- Cada capa tiene una funcion especifica
+- Permiten que diferentes dispositivos se comuniquen
+- Base para los protocolos de red
+
+MODELO OSI - 7 CAPAS
+Es el modelo teorico mas completo
+
+Capa 7 - APLICACION
+Interfaz entre el usuario y la red
+Protocolos que usan las aplicaciones
+Ejemplos HTTP FTP SMTP
+
+Capa 6 - PRESENTACION
+Traduccion y formato de datos
+Cifrado y descifrado
+Compresion de datos
+
+Capa 5 - SESION
+Control de dialogos entre aplicaciones
+Establece gestiona y cierra sesiones
+Sincronizacion
+
+Capa 4 - TRANSPORTE
+Comunicacion extremo a extremo
+Protocolos TCP y UDP
+Control de flujo y errores
+Puertos
+
